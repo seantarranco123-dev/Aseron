@@ -1,0 +1,8 @@
+{
+  "name": "Binaling — Eco-Friendly Shoe Care",
+  "description": "Minimalist handcrafted carnauba wax shoe polish and leather conditioning care formulated for the Philippine climate. Priced exclusively in Philippine Pesos (₱).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
